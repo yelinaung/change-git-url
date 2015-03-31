@@ -1,7 +1,7 @@
 change-git-url
 =============
 
-SSH to HTTP url, vice versa.
+SSH to HTTP url, vice versa. Tested with GitHub and BitBucket urls.
 
 How to Use
 ----------
